@@ -25,17 +25,15 @@ Estudante de Analise De Desenvolvimento De Sistemas,Atualmente Cursando o 2º se
           
 
 ### 📝Cursos Realizados
-Termiando ainda...
+Terminando ainda...
 #
 ### ⛓️‍💥Minhas Redes Sociais
-<div>
-  <a href="www.linkedin.com/in/nicholas-fuxe-0242862a7" target="_blank"> 
+<div >
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  </a>
-  < a href="meiodiafuxe@gmail.com"> 
+  linkedin: www.linkedin.com/in/nicholas-fuxe-0242862a7<br>
    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
-  </a>
-
+    Email: meiodiafuxe@gmail.com
   
 </div>
 
