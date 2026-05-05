@@ -1,9 +1,8 @@
-## Hi there 👋
+# Olá, Eu sou Nicholas👋
+Estudante de Analise De Desenvolvimento De Sistemas,Atualmente Cursando o 2º semestre na Gran Faculdade em Curitbiba.
+💡 Estudando para ser um Desenvolvedor Full Stack.
 
-<!--
-**Nichola2/Nichola2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+📔 Buscando conhecimentos todos os dias em cursos gratutitos, podcast, Imersões, eventos e palestras tech das comunidades, Na faculdade e Fora dela, Praticando muito.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
