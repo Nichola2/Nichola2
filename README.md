@@ -29,8 +29,9 @@ Terminando ainda...
 #
 ### ⛓️‍💥Minhas Redes Sociais
 <div >
-  
+  <a href="www.linkedin.com/in/nicholas-fuxe-0242862a7"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
   linkedin: www.linkedin.com/in/nicholas-fuxe-0242862a7<br>
    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
     Email: meiodiafuxe@gmail.com<br>
