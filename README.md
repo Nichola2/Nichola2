@@ -31,8 +31,12 @@ Termiando ainda...
 <div>
   <a href="www.linkedin.com/in/nicholas-fuxe-0242862a7" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-
   </a>
+  < a href="meiodiafuxe@gmail.com"> 
+   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+  </a>
+
+  
 </div>
 
 
