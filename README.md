@@ -4,12 +4,35 @@ Estudante de Analise De Desenvolvimento De Sistemas,Atualmente Cursando o 2º se
 
 📔 Buscando conhecimentos todos os dias em cursos gratutitos, podcast, Imersões, eventos e palestras tech das comunidades, Na faculdade e Fora dela, Praticando muito.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+### ⚒️Tecnologias e Ferramentais
+<div>
+  <img alt="Nicholas-Js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Nicholas-Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Nicholas-HTML" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+  <img alt="Nicholas-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="Nicholas-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />  
+  <img alt="Nicholas-React" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Nicholas-Sql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />  
+  <img alt="Nicholas-Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+</div>
+
+#
+### 🔨Futuros Projetos em Destaques
+  ## ...
+
+
+          
+
+### 📝Cursos Realizados
+Termiando ainda...
+#
+### ⛓️‍💥Minhas Redes Sociais
+<div>
+  <a href="www.linkedin.com/in/nicholas-fuxe-0242862a7" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+
+  </a>
+</div>
+
+
