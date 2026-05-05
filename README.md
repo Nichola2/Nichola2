@@ -34,8 +34,9 @@ Terminando ainda...
   linkedin: www.linkedin.com/in/nicholas-fuxe-0242862a7<br>
    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
     Email: meiodiafuxe@gmail.com<br>
+  <a href="https://www.instagram.com/gabriel_fuxe?utm_source=qr&igsh=NDQxYmVyZGR1aWR1">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  
+  </a>
 </div>
 
 
