@@ -33,7 +33,8 @@ Terminando ainda...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   linkedin: www.linkedin.com/in/nicholas-fuxe-0242862a7<br>
    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
-    Email: meiodiafuxe@gmail.com
+    Email: meiodiafuxe@gmail.com<br>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   
 </div>
 
